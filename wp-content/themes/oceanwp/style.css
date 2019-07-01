@@ -22,6 +22,13 @@ div#outer-wrap {
     margin-top: 80px;
 }*/
 
+#site-logo #site-logo-inner a{
+    display: table-cell;
+    vertical-align: middle;
+    height: 74px;
+    display: none;
+}
+
 main#main #content-wrap {
     padding-top: 0px;
 }
